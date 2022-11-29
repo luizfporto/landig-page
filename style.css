@@ -565,19 +565,12 @@ ul li{
     justify-content: center;
 }
 
-.f-3 p{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
 .f-3 .social{
     margin-top: 0.8rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-
 
 .f-3 .social i{
     font-size: 1.4rem;
